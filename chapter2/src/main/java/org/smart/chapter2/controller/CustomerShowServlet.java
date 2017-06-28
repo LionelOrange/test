@@ -1,4 +1,4 @@
-package org.smart.chapter2.test.controller;
+package org.smart.chapter2.controller;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;

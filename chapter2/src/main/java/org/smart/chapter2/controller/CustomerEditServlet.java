@@ -1,4 +1,4 @@
-package org.smart.chapter2.test.controller;
+package org.smart.chapter2.controller;
 
 /**
  * Created by chencheng on 2017-06-28.

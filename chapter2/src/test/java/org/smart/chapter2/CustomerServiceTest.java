@@ -1,10 +1,10 @@
-package org.smart.chapter2.test;
+package org.smart.chapter2;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import org.smart.chapter2.test.model.Customer;
-import org.smart.chapter2.test.service.CustomerService;
+import org.smart.chapter2.service.CustomerService;
+import org.smart.chapter2.model.Customer;
 
 import java.util.HashMap;
 import java.util.List;

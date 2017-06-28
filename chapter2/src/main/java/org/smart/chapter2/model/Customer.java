@@ -1,4 +1,4 @@
-package org.smart.chapter2.test.model;
+package org.smart.chapter2.model;
 
 /**
  * Created by chencheng on 2017-06-28.

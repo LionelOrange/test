@@ -1,6 +1,6 @@
-package org.smart.chapter2.test.service;
+package org.smart.chapter2.service;
 
-import org.smart.chapter2.test.model.Customer;
+import org.smart.chapter2.model.Customer;
 
 import java.util.List;
 import java.util.Map;
